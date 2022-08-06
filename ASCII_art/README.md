@@ -1,0 +1,1 @@
+A graphic design technique that uses computers for presentation and consists of pictures pieced together from individual characters using initials.py
