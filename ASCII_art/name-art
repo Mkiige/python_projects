@@ -1,4 +1,4 @@
-"""
+name = """
 M   M  
 MM MM  
 MM MM  
@@ -8,14 +8,8 @@ M   M
 M   M
 """  
 
-#first name is Mary and last name is Kiige
+#first name is Mary
 #i love coffee
 
 
-print(" M   M ")
-print(" MM MM ")
-print(" MM MM ")
-print(" M M M ")
-print(" M   M ")
-print(" M   M ")
-print(" M   M ")
+print(name)
