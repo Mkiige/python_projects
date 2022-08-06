@@ -1,3 +1,7 @@
+#creates a fortune telling or advice seeking game
+#answers YES or NO question with a different answer each time it executes
+
+
 import random
 
 name = "Mary"
